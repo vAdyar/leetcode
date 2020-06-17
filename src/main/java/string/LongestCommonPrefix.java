@@ -1,5 +1,7 @@
 package string;
 
+import trie.Trie;
+
 public class LongestCommonPrefix {
 
     public static String longestCommonPrefix(String[] strs) {
@@ -27,8 +29,16 @@ public class LongestCommonPrefix {
         return ret;
     }
 
+    public static String longestCommonPrefixTrie(String[] strs) {
+        Trie trie = new Trie();
+        for (int i = 0; i < strs.length; i++) {
+            trie.insert(strs[i]);
+        }
+        return trie.commonPrefix(strs[0]);
+    }
+
     public static void main(String[] args) {
-        String[] strs = {"a", "ac"};
-        System.out.println(longestCommonPrefix(strs));
+        String[] strs = {"leet", "leed"};
+        System.out.println(longestCommonPrefixTrie(strs));
     }
 }

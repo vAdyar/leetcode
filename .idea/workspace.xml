@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="89441eb1-a7a5-4da2-a220-80dce4a9c648" name="Default Changelist" comment="array easy solution.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/string/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/string/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trie/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trie/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trie/TrieNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trie/TrieNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/LongestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/trie/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/trie/Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/trie/TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/trie/TrieNode.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +42,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/string/CountAndSay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="44" column="1" selection-start-line="5" selection-end-line="44" selection-end-column="1" />
+            <state relative-caret-position="378">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1201#1202#0" expanded="true" />
+                <element signature="e#1205#1206#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/string/LongestCommonPrefix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="288">
+              <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -68,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/trie/TrieNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            <state relative-caret-position="363">
+              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
               <folding>
                 <element signature="e#148#149#0" expanded="true" />
                 <element signature="e#185#186#0" expanded="true" />
@@ -77,25 +82,27 @@
                 <element signature="e#274#275#0" expanded="true" />
                 <element signature="e#317#318#0" expanded="true" />
                 <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
                 <element signature="e#219#220#0" expanded="true" />
                 <element signature="e#247#248#0" expanded="true" />
                 <element signature="e#286#287#0" expanded="true" />
                 <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#612#613#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/trie/Trie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+            <state relative-caret-position="152">
+              <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
               <folding>
                 <element signature="e#86#87#0" expanded="true" />
                 <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -188,8 +195,8 @@
         <option value="$PROJECT_DIR$/src/main/java/string/test.java" />
         <option value="$PROJECT_DIR$/src/main/java/string/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/string/CountAndSay.java" />
-        <option value="$PROJECT_DIR$/src/main/java/string/LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/main/java/trie/TrieNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/string/LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/main/java/trie/Trie.java" />
       </list>
     </option>
@@ -244,6 +251,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="trie" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -283,7 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Trie">
+  <component name="RunManager" selected="Application.LongestCommonPrefix">
     <configuration name="CountAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string.CountAndSay" />
       <module name="leetcode" />
@@ -351,8 +366,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Trie" />
         <item itemvalue="Application.LongestCommonPrefix" />
+        <item itemvalue="Application.Trie" />
         <item itemvalue="Application.CountAndSay" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ImplementingIndexOf" />
@@ -371,7 +386,7 @@
       <updated>1591190384807</updated>
       <workItem from="1591190392108" duration="32818000" />
       <workItem from="1591873059174" duration="20223000" />
-      <workItem from="1591968264020" duration="38115000" />
+      <workItem from="1591968264020" duration="42606000" />
     </task>
     <task id="LOCAL-00001" summary="array solutions.">
       <created>1591906631803</created>
@@ -391,10 +406,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91156000" />
+    <option name="totallyTimeSpent" value="95647000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="842" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49900597" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" sideWeight="0.500994" side_tool="true" weight="0.2532189" />
@@ -519,27 +535,30 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/string/LongestCommonPrefix.java</url>
-          <line>13</line>
+          <line>15</line>
           <properties />
           <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/trie/Trie.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/trie/Trie.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>trie.getRoot().getLinks().length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>trie.getRoot().getLinks().length == 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>trie.startsWith(strs[0].substring(0,i+1))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>c != strs[++i].charAt(++j)</expression-string>
         <language-id>JAVA</language-id>
@@ -567,21 +586,6 @@
       </expression>
       <expression>
         <expression-string>ret &gt; Integer.MAX_VALUE / 10 || (ret == Integer.MAX_VALUE / 10 &amp;&amp; (str.charAt(i++) - '0') &gt; 7)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>ret = ret * 10 + (str.charAt(i++) - '0');</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>ret *= 10 + (str.charAt(i++) - '0');</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>ret *= 10 + (str.charAt(i++) - '0')</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -841,17 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/CountAndSay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="44" column="1" selection-start-line="5" selection-end-line="44" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1201#1202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/string/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
@@ -859,17 +852,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/LongestCommonPrefix.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/string/CountAndSay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="378">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/trie/TrieNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        <state relative-caret-position="363">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
           <folding>
             <element signature="e#148#149#0" expanded="true" />
             <element signature="e#185#186#0" expanded="true" />
@@ -877,24 +874,33 @@
             <element signature="e#274#275#0" expanded="true" />
             <element signature="e#317#318#0" expanded="true" />
             <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
             <element signature="e#219#220#0" expanded="true" />
             <element signature="e#247#248#0" expanded="true" />
             <element signature="e#286#287#0" expanded="true" />
             <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/trie/Trie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        <state relative-caret-position="152">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
           <folding>
             <element signature="e#86#87#0" expanded="true" />
             <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/string/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
         </state>
       </provider>
     </entry>

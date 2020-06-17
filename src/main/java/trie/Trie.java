@@ -8,6 +8,10 @@ public class Trie {
         root = new TrieNode();
     }
 
+    public TrieNode getRoot() {
+        return root;
+    }
+
     public void insert(String word) {
         TrieNode node = root;
         for (int i = 0; i < word.length(); i++) {
@@ -37,6 +41,21 @@ public class Trie {
     public boolean startsWith(String prefix) {
         TrieNode node = searchPrefix(prefix);
         return node != null;
+    }
+
+    public String commonPrefix(String str) {
+        TrieNode node = root;
+        int i = 0;
+        String ret = "";
+
+        while( node.containsKey(str.charAt(i)) && node.getLinks() == 1 && !node.isEnd() && i < str.length() ) {
+            node = node.get(str.charAt(i));
+            ret += str.charAt(i);
+            i++;
+        }
+
+        return ret;
+
     }
 
     public static void main(String[] args) {

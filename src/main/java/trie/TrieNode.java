@@ -5,6 +5,7 @@ public class TrieNode {
     private TrieNode[] links;
     private final int R = 26;
     private boolean isEnd;
+    private int size;
 
     public TrieNode() {
         links = new TrieNode[R];
@@ -20,6 +21,7 @@ public class TrieNode {
 
     public void put(char c, TrieNode node) {
         links[c - 'a'] = node;
+        size++;
     }
 
     public boolean isEnd() {
@@ -28,5 +30,9 @@ public class TrieNode {
 
     public void setEnd() {
         isEnd = true;
+    }
+
+    public int getLinks() {
+        return size;
     }
 }
